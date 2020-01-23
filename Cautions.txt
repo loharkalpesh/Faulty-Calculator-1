@@ -4,7 +4,7 @@ IN a school some student want to cheat in the Maths paper,
 he/she borrow A CALCULATOR,
 If we Know About this, Then we changes its calculator with our Faulty calulator Program,
 who perform some action very wrongly ,Then He/She do not cheat complately,
-so This is Faluty Calculater which perform some operations like,
+so This is Faluty Calculater which perform 3 operations wrongly like,
 
 45 * 3 = 555
 56+9=77
